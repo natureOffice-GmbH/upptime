@@ -24,19 +24,19 @@
     "url": "https://www.nature.io/",
     "icon": "https://favicons.githubusercontent.com/www.nature.io",
     "slug": "nature-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 244,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 312,
+    "timeDay": 367,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2021-02-19": 0
+      "2021-02-19": 14
     }
   },
   {
