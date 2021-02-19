@@ -4,9 +4,9 @@
     "url": "http://www.naturebalance.net/",
     "icon": "https://favicons.githubusercontent.com/www.naturebalance.net",
     "slug": "nature-balance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 0
+    }
   },
   {
     "name": "nature.io",
