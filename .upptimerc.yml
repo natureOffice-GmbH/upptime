@@ -5,7 +5,11 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: natureBalance
-    url: http://www.naturebalance.net/
+    url: https://www.naturebalance.net/
+  - name: natureBalance 6.0
+    url: https://vorschau.naturebalance.net/
+  - name: Basic
+    url: https://www.gemeinsam-ist-es-klimaschutz.de
   - name: nature.io
     url: https://www.nature.io/
 
