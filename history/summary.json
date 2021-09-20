@@ -46,7 +46,7 @@
     "url": "https://www.gemeinsam-ist-es-klimaschutz.de",
     "icon": "https://favicons.githubusercontent.com/www.gemeinsam-ist-es-klimaschutz.de",
     "slug": "basic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 1313,
     "timeMonth": 1313,
     "timeYear": 1313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 0
+    }
   },
   {
     "name": "nature.io",
