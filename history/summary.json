@@ -4,9 +4,9 @@
     "url": "https://www.naturebalance.net/",
     "icon": "https://favicons.githubusercontent.com/www.naturebalance.net",
     "slug": "nature-balance-5-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 295,
     "timeMonth": 295,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-23": 0
+    }
   },
   {
     "name": "natureBalance 6.x",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/www.gemeinsam-ist-es-klimaschutz.de",
     "slug": "basic",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1395,
     "timeDay": 1329,
     "timeWeek": 1395,
