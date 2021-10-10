@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 321,
-    "timeDay": 272,
-    "timeWeek": 287,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "time": 318,
+    "timeDay": 263,
+    "timeWeek": 286,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2021-09-23": 16
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/vorschau.naturebalance.net",
     "slug": "nature-balance-6-x",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 420,
-    "timeDay": 633,
-    "timeWeek": 416,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 417,
+    "timeDay": 356,
+    "timeWeek": 414,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2021-09-28": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1358,
-    "timeDay": 1261,
-    "timeWeek": 1340,
-    "timeMonth": 1358,
-    "timeYear": 1358,
+    "time": 1349,
+    "timeDay": 1143,
+    "timeWeek": 1300,
+    "timeMonth": 1349,
+    "timeYear": 1349,
     "dailyMinutesDown": {
       "2021-09-20": 9
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 400,
+    "time": 317,
+    "timeDay": 248,
     "timeWeek": 294,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1323,
-    "timeDay": 472,
+    "time": 1281,
+    "timeDay": 480,
     "timeWeek": 496,
-    "timeMonth": 1323,
-    "timeYear": 1323,
+    "timeMonth": 1281,
+    "timeYear": 1281,
     "dailyMinutesDown": {}
   }
 ]
