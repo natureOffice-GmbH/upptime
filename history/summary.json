@@ -66,19 +66,19 @@
     "url": "$NATUREIO_LOGO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nature-book-nature-io-logos",
-    "status": "down",
-    "uptime": "95.86%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
-    "time": 29325,
-    "timeDay": 29325,
-    "timeWeek": 29325,
-    "timeMonth": 29325,
-    "timeYear": 29325,
+    "status": "up",
+    "uptime": "91.01%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "91.01%",
+    "time": 28984,
+    "timeDay": 28984,
+    "timeWeek": 28984,
+    "timeMonth": 28984,
+    "timeYear": 28984,
     "dailyMinutesDown": {
-      "2021-10-25": 19
+      "2021-10-25": 42
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "$NATUREBALANCE_LOGO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nature-book-nature-balance-logos",
-    "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "94.91%",
-    "time": 27605,
-    "timeDay": 27605,
-    "timeWeek": 27605,
-    "timeMonth": 27605,
-    "timeYear": 27605,
+    "status": "up",
+    "uptime": "90.00%",
+    "uptimeDay": "90.00%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.00%",
+    "time": 27866,
+    "timeDay": 27866,
+    "timeWeek": 27866,
+    "timeMonth": 27866,
+    "timeYear": 27866,
     "dailyMinutesDown": {
-      "2021-10-25": 22
+      "2021-10-25": 46
     }
   },
   {
