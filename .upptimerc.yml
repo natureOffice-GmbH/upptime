@@ -6,14 +6,35 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: natureBalance 5.x
     url: https://www.naturebalance.net/
+    assignees:
+      - kulturpessimist
+
   - name: natureBalance 6.x
     url: https://vorschau.naturebalance.net/
+    assignees:
+      - chubchik
   - name: Basic
     url: https://www.gemeinsam-ist-es-klimaschutz.de
+    assignees:
+      - chubchik
+      
+  - name: natureBook (nature.io Logos)
+    url: $NATUREIO_LOGO
+    assignees:
+      - chubchik
+  - name: natureBook (natureBalance Logos)
+    url: $NATUREBALANCE_LOGO
+    assignees:
+      - chubchik    
+
   - name: nature.io (v1)
     url: https://www.nature.io/
+    assignees:
+      - kulturpessimist
   - name: next.nature.io (v2)
     url: https://next.nature.io/
+    assignees:
+      - kulturpessimist
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
