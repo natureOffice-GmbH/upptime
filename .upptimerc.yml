@@ -20,6 +20,7 @@ sites:
       
   - name: natureBook (nature.io Logos)
     url: $NATUREIO_LOGO
+    maxResponseTime: 60000
     expectedStatusCodes:
       - 200
       - 201
@@ -29,6 +30,7 @@ sites:
       - chubchik
   - name: natureBook (natureBalance Logos)
     url: $NATUREBALANCE_LOGO
+    maxResponseTime: 60000
     expectedStatusCodes:
       - 200
       - 201
