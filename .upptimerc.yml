@@ -20,10 +20,20 @@ sites:
       
   - name: natureBook (nature.io Logos)
     url: $NATUREIO_LOGO
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+      - 303
     assignees:
       - chubchik
   - name: natureBook (natureBalance Logos)
     url: $NATUREBALANCE_LOGO
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+      - 303
     assignees:
       - chubchik    
 
