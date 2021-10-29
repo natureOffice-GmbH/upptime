@@ -16,24 +16,24 @@ sites:
     url: https://www.gemeinsam-ist-es-klimaschutz.de
     assignees:
       - chubchik
-  - name: natureBook (nature.io Logos)
-    url: https://naturebook-ff.herokuapp.com/dynamic/order-d335c5a3-0874c3b639ad3a41/UHJvZHVrdA.cHJvZHVjdA.cHJvZHVjdG8.cHJvZHVpdA.UHJvZG90dG8.UHJvZHVjdA.cHJvZHV0b3M/ #$NATUREIO_LOGO
-    maxResponseTime: 60000
-    expectedStatusCodes:
-      - 200
-      - 302
-      - 303
-    assignees:
-      - chubchik
-  - name: natureBook (natureBalance Logos)
-    url: https://pdfs.naturebalance.net/v4/bundle/de/6ef29db1750534282d2441d610fb997c/ #$NATUREBALANCE_LOGO
-    maxResponseTime: 60000
-    expectedStatusCodes:
-      - 200
-      - 302
-      - 303
-    assignees:
-      - chubchik    
+  #- name: natureBook (nature.io Logos)
+  #  url: https://naturebook-ff.herokuapp.com/dynamic/order-d335c5a3-0874c3b639ad3a41/UHJvZHVrdA.cHJvZHVjdA.cHJvZHVjdG8.cHJvZHVpdA.UHJvZG90dG8.UHJvZHVjdA.cHJvZHV0b3M/ #$NATUREIO_LOGO
+  #  maxResponseTime: 60000
+  #  expectedStatusCodes:
+  #    - 200
+  #    - 302
+  #    - 303
+  #  assignees:
+  #    - chubchik
+  #- name: natureBook (natureBalance Logos)
+  #  url: https://pdfs.naturebalance.net/v4/bundle/de/6ef29db1750534282d2441d610fb997c/ #$NATUREBALANCE_LOGO
+  #  maxResponseTime: 60000
+  #  expectedStatusCodes:
+  #    - 200
+  #    - 302
+  #    - 303
+  #  assignees:
+  #    - chubchik    
   - name: nature.io (v1)
     url: https://www.nature.io/
     assignees:
