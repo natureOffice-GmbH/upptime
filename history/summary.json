@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 305,
-    "timeDay": 352,
-    "timeWeek": 308,
-    "timeMonth": 293,
-    "timeYear": 305,
+    "time": 303,
+    "timeDay": 316,
+    "timeWeek": 303,
+    "timeMonth": 291,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2021-09-23": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 409,
-    "timeDay": 423,
-    "timeWeek": 445,
-    "timeMonth": 404,
-    "timeYear": 409,
+    "time": 408,
+    "timeDay": 399,
+    "timeWeek": 439,
+    "timeMonth": 403,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2021-10-24": 16,
       "2021-09-28": 23
@@ -51,63 +51,15 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1351,
-    "timeDay": 1585,
+    "time": 1353,
+    "timeDay": 1546,
     "timeWeek": 1472,
-    "timeMonth": 1347,
-    "timeYear": 1351,
+    "timeMonth": 1350,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2021-10-27": 22,
       "2021-10-19": 10,
       "2021-09-20": 9
-    }
-  },
-  {
-    "name": "natureBook (nature.io Logos)",
-    "url": "https://naturebook-ff.herokuapp.com/dynamic/order-d335c5a3-0874c3b639ad3a41/UHJvZHVrdA.cHJvZHVjdA.cHJvZHVjdG8.cHJvZHVpdA.UHJvZG90dG8.UHJvZHVjdA.cHJvZHV0b3M/",
-    "icon": "https://favicons.githubusercontent.com/naturebook-ff.herokuapp.com",
-    "slug": "nature-book-nature-io-logos",
-    "status": "down",
-    "uptime": "37.56%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "37.56%",
-    "uptimeMonth": "37.56%",
-    "uptimeYear": "37.56%",
-    "time": 29105,
-    "timeDay": 0,
-    "timeWeek": 29105,
-    "timeMonth": 29105,
-    "timeYear": 29105,
-    "dailyMinutesDown": {
-      "2021-10-29": 719,
-      "2021-10-28": 1440,
-      "2021-10-27": 921,
-      "2021-10-26": 503,
-      "2021-10-25": 60
-    }
-  },
-  {
-    "name": "natureBook (natureBalance Logos)",
-    "url": "https://pdfs.naturebalance.net/v4/bundle/de/6ef29db1750534282d2441d610fb997c/",
-    "icon": "https://favicons.githubusercontent.com/pdfs.naturebalance.net",
-    "slug": "nature-book-nature-balance-logos",
-    "status": "up",
-    "uptime": "43.58%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "43.58%",
-    "uptimeMonth": "43.58%",
-    "uptimeYear": "43.58%",
-    "time": 28357,
-    "timeDay": 29543,
-    "timeWeek": 28357,
-    "timeMonth": 28357,
-    "timeYear": 28357,
-    "dailyMinutesDown": {
-      "2021-10-29": 719,
-      "2021-10-28": 1440,
-      "2021-10-27": 796,
-      "2021-10-26": 291,
-      "2021-10-25": 46
     }
   },
   {
@@ -121,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 292,
-    "timeWeek": 294,
-    "timeMonth": 281,
-    "timeYear": 293,
+    "time": 292,
+    "timeDay": 275,
+    "timeWeek": 290,
+    "timeMonth": 280,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -139,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 597,
-    "timeWeek": 526,
-    "timeMonth": 512,
-    "timeYear": 860,
+    "time": 851,
+    "timeDay": 549,
+    "timeWeek": 520,
+    "timeMonth": 510,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   }
 ]
