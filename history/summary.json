@@ -13,7 +13,7 @@
     "time": 314,
     "timeDay": 269,
     "timeWeek": 284,
-    "timeMonth": 321,
+    "timeMonth": 327,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2021-09-23": 16
@@ -33,7 +33,7 @@
     "time": 510,
     "timeDay": 533,
     "timeWeek": 393,
-    "timeMonth": 466,
+    "timeMonth": 468,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2021-12-15": 288,
@@ -60,7 +60,7 @@
     "time": 1511,
     "timeDay": 2184,
     "timeWeek": 1818,
-    "timeMonth": 1797,
+    "timeMonth": 1794,
     "timeYear": 1511,
     "dailyMinutesDown": {
       "2021-12-04": 175,
@@ -76,18 +76,18 @@
     "icon": "https://favicons.githubusercontent.com/pdfs.naturebalance.net",
     "slug": "nature-book-nature-balance-logos",
     "status": "up",
-    "uptime": "93.34%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "93.34%",
+    "uptime": "93.37%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "93.37%",
     "time": 26380,
     "timeDay": 26089,
     "timeWeek": 27157,
-    "timeMonth": 26704,
+    "timeMonth": 26678,
     "timeYear": 26380,
     "dailyMinutesDown": {
-      "2021-12-30": 29,
+      "2021-12-30": 15,
       "2021-12-27": 19,
       "2021-12-23": 18,
       "2021-12-22": 21,
@@ -130,7 +130,7 @@
     "time": 298,
     "timeDay": 240,
     "timeWeek": 262,
-    "timeMonth": 296,
+    "timeMonth": 300,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "time": 671,
     "timeDay": 477,
     "timeWeek": 485,
-    "timeMonth": 544,
+    "timeMonth": 555,
     "timeYear": 671,
     "dailyMinutesDown": {}
   }
