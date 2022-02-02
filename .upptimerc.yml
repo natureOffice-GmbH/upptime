@@ -25,15 +25,15 @@ sites:
     #  - 303
   #  assignees:
     #  - chubchik
-  - name: natureBook (natureBalance Logos)
-    url: https://pdfs.naturebalance.net/v4/bundle/de/6ef29db1750534282d2441d610fb997c/ #$NATUREBALANCE_LOGO
-    maxResponseTime: 60000
-    expectedStatusCodes:
-      - 200
-      - 302
-      - 303
-    assignees:
-      - chubchik    
+  #- name: natureBook (natureBalance Logos)
+  #  url: https://pdfs.naturebalance.net/v4/bundle/de/6ef29db1750534282d2441d610fb997c/ #$NATUREBALANCE_LOGO
+  #  maxResponseTime: 60000
+  #  expectedStatusCodes:
+  #    - 200
+  #    - 302
+  #    - 303
+  #  assignees:
+  #    - chubchik    
   - name: nature.io (v1)
     url: https://www.nature.io/
     assignees:
