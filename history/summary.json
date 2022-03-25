@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/vorschau.naturebalance.net",
     "slug": "nature-balance-6-x",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 503,
     "timeDay": 659,
     "timeWeek": 552,
@@ -97,17 +97,19 @@
     "url": "https://next.nature.io/",
     "icon": "https://favicons.githubusercontent.com/next.nature.io",
     "slug": "next-nature-io-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 538,
-    "timeWeek": 527,
-    "timeMonth": 604,
-    "timeYear": 630,
-    "dailyMinutesDown": {}
+    "time": 627,
+    "timeDay": 291,
+    "timeWeek": 467,
+    "timeMonth": 585,
+    "timeYear": 627,
+    "dailyMinutesDown": {
+      "2022-03-25": 0
+    }
   }
 ]
