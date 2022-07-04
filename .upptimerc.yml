@@ -4,45 +4,23 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: natureBalance 5.x
-    url: https://www.naturebalance.net/
-    assignees:
-      - kulturpessimist
-  - name: natureBalance 6.x
-    url: https://vorschau.naturebalance.net/
-    assignees:
-      - chubchik
-  - name: Basic
-    url: https://www.gemeinsam-ist-es-klimaschutz.de
-    assignees:
-      - chubchik
-  #- name: natureBook (nature.io Logos)
-  #  url: https://naturebook-ff.herokuapp.com/dynamic/order-d335c5a3-0874c3b639ad3a41/UHJvZHVrdA.cHJvZHVjdA.cHJvZHVjdG8.cHJvZHVpdA.UHJvZG90dG8.UHJvZHVjdA.cHJvZHV0b3M/ #$NATUREIO_LOGO
-  #  maxResponseTime: 60000
-  #  expectedStatusCodes:
-  #    - 200
-    #  - 302
-    #  - 303
-  #  assignees:
-    #  - chubchik
-  #- name: natureBook (natureBalance Logos)
-  #  url: https://pdfs.naturebalance.net/v4/bundle/de/6ef29db1750534282d2441d610fb997c/ #$NATUREBALANCE_LOGO
-  #  maxResponseTime: 60000
-  #  expectedStatusCodes:
-  #    - 200
-  #    - 302
-  #    - 303
-  #  assignees:
-  #    - chubchik    
-  - name: nature.io (v1)
-    url: https://www.nature.io/
-    assignees:
-      - kulturpessimist
+  - name: ecozoom
+    url: https://www.ecozoom.app/
   - name: next.nature.io (v2)
     url: https://next.nature.io/
     assignees:
       - kulturpessimist
-
+  - name: natureBalance 5.x
+    url: https://www.naturebalance.net/
+    assignees:
+      - kulturpessimist
+  - name: Basic
+    url: https://www.gemeinsam-ist-es-klimaschutz.de
+  - name: nature.io (v1)
+    url: https://www.nature.io/
+    assignees:
+      - kulturpessimist
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.natureoffice.net
