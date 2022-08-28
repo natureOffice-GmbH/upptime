@@ -4,19 +4,19 @@
     "url": "https://www.ecozoom.app/",
     "icon": "https://favicons.githubusercontent.com/www.ecozoom.app",
     "slug": "ecozoom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 393,
-    "timeWeek": 420,
-    "timeMonth": 543,
-    "timeYear": 608,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 604,
+    "timeDay": 398,
+    "timeWeek": 418,
+    "timeMonth": 539,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2022-08-28": 0
+      "2022-08-28": 9
     }
   },
   {
