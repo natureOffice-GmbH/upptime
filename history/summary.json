@@ -4,9 +4,9 @@
     "url": "https://www.ecozoom.app/",
     "icon": "https://favicons.githubusercontent.com/www.ecozoom.app",
     "slug": "ecozoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 867,
     "timeMonth": 848,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "next.nature.io (v2)",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/next.nature.io",
     "slug": "next-nature-io-v2",
     "status": "up",
-    "uptime": "95.21%",
+    "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.21%",
+    "uptimeYear": "95.22%",
     "time": 743,
     "timeDay": 643,
     "timeWeek": 849,
@@ -90,12 +92,12 @@
     "status": "up",
     "uptime": "98.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.18%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "98.90%",
     "time": 1323,
     "timeDay": 520,
-    "timeWeek": 1075,
+    "timeWeek": 1118,
     "timeMonth": 981,
     "timeYear": 1323,
     "dailyMinutesDown": {
