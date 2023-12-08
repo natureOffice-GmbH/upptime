@@ -40,19 +40,19 @@
     "url": "https://www.naturebalance.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.naturebalance.net.ico",
     "slug": "nature-balance-5-x",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 276,
-    "timeWeek": 328,
-    "timeMonth": 330,
-    "timeYear": 284,
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 332,
+    "timeDay": 1825,
+    "timeWeek": 838,
+    "timeMonth": 473,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-12-08": 21
+      "2023-12-08": 33
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://www.nature.io/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nature.io.ico",
     "slug": "nature-io-v1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 341,
-    "timeWeek": 264,
-    "timeMonth": 268,
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 243,
+    "timeDay": 283,
+    "timeWeek": 253,
+    "timeMonth": 265,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-12-08": 19
+      "2023-12-08": 31
     }
   }
 ]
