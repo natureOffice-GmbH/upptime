@@ -40,10 +40,10 @@
     "url": "https://www.naturebalance.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.naturebalance.net.ico",
     "slug": "nature-balance-5-x",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
@@ -51,7 +51,9 @@
     "timeWeek": 320,
     "timeMonth": 328,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 2
+    }
   },
   {
     "name": "Basic",
@@ -84,17 +86,19 @@
     "url": "https://www.nature.io/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nature.io.ico",
     "slug": "nature-io-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
+    "time": 244,
     "timeDay": 275,
     "timeWeek": 244,
     "timeMonth": 264,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 0
+    }
   }
 ]
