@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 762,
-    "timeDay": 553,
-    "timeWeek": 837,
-    "timeMonth": 812,
-    "timeYear": 778,
+    "timeDay": 327,
+    "timeWeek": 760,
+    "timeMonth": 805,
+    "timeYear": 777,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/next.nature.io.ico",
     "slug": "next-nature-io-v2",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 419,
-    "timeWeek": 795,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 760,
+    "timeDay": 1268,
+    "timeWeek": 836,
+    "timeMonth": 741,
+    "timeYear": 728,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 245,
-    "timeWeek": 400,
-    "timeMonth": 312,
-    "timeYear": 306,
+    "time": 307,
+    "timeDay": 723,
+    "timeWeek": 408,
+    "timeMonth": 327,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2023-12-08": 20
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 1041,
-    "timeDay": 553,
-    "timeWeek": 1058,
-    "timeMonth": 1051,
+    "timeDay": 823,
+    "timeWeek": 944,
+    "timeMonth": 1061,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-09-05": 382,
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 342,
-    "timeWeek": 263,
+    "timeDay": 341,
+    "timeWeek": 283,
     "timeMonth": 264,
-    "timeYear": 246,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2023-12-08": 19
     }
