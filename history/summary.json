@@ -86,18 +86,19 @@
     "url": "https://www.nature.io/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nature.io.ico",
     "slug": "nature-io-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 178,
-    "timeWeek": 263,
-    "timeMonth": 250,
+    "timeDay": 170,
+    "timeWeek": 250,
+    "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2023-12-08": 19
     }
   }
