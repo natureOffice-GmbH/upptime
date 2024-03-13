@@ -10,6 +10,10 @@ sites:
     url: https://next.nature.io/
     assignees:
       - kulturpessimist
+  - name: api.nature.io (v2)
+    url: https://api.nature.io/
+    assignees:
+      - kulturpessimist
   - name: natureBalance 5.x
     url: https://www.naturebalance.net/
     assignees:
@@ -20,7 +24,11 @@ sites:
     url: https://www.nature.io/
     assignees:
       - kulturpessimist
-  
+  - name: Puppet
+    url: https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net
+    assignees:
+      - kulturpessimist
+      
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.natureoffice.net
