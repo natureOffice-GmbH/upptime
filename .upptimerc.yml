@@ -28,6 +28,10 @@ sites:
     url: https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net
     assignees:
       - kulturpessimist
+  - name: klimaneutral.me (v2)
+    url: https://api-v2.klimaneutral.me
+    assignees:
+      - kulturpessimist
       
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
