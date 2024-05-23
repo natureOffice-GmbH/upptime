@@ -1,7 +1,7 @@
 url: https://api.nature.io/
-status: down
-code: 502
-responseTime: 4946
-lastUpdated: 2024-05-23T08:50:58.875Z
+status: up
+code: 200
+responseTime: 559
+lastUpdated: 2024-05-23T08:57:59.693Z
 startTime: 2024-03-13T09:13:08.378Z
 generator: Upptime <https://github.com/upptime/upptime>
