@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 736,
-    "timeWeek": 837,
-    "timeMonth": 784,
+    "time": 797,
+    "timeDay": 721,
+    "timeWeek": 912,
+    "timeMonth": 787,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2024-05-03": 26
@@ -26,18 +26,16 @@
     "slug": "next-nature-io-v2",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
-    "timeDay": 1189,
-    "timeWeek": 743,
-    "timeMonth": 780,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2024-06-04": 6
-    }
+    "timeDay": 967,
+    "timeWeek": 822,
+    "timeMonth": 791,
+    "timeYear": 810,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.nature.io (v2)",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 691,
-    "timeWeek": 513,
-    "timeMonth": 656,
-    "timeYear": 551,
+    "time": 548,
+    "timeDay": 324,
+    "timeWeek": 494,
+    "timeMonth": 651,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 286,
-    "timeWeek": 228,
-    "timeMonth": 232,
+    "timeDay": 476,
+    "timeWeek": 265,
+    "timeMonth": 240,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-12-08": 20
@@ -88,19 +86,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.44%",
     "uptimeYear": "99.07%",
-    "time": 1018,
-    "timeDay": 838,
-    "timeWeek": 966,
+    "time": 1019,
+    "timeDay": 1311,
+    "timeWeek": 1074,
     "timeMonth": 954,
-    "timeYear": 973,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-05-23": 883,
       "2024-05-22": 1113,
       "2024-03-26": 16,
       "2024-02-22": 15,
       "2023-09-05": 382,
-      "2023-09-04": 150,
-      "2023-06-06": 963
+      "2023-09-04": 150
     }
   },
   {
@@ -115,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 246,
-    "timeWeek": 235,
+    "timeDay": 265,
+    "timeWeek": 223,
     "timeMonth": 281,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -134,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3330,
-    "timeDay": 2704,
-    "timeWeek": 2644,
+    "time": 3321,
+    "timeDay": 2545,
+    "timeWeek": 2634,
     "timeMonth": 3075,
-    "timeYear": 3330,
+    "timeYear": 3321,
     "dailyMinutesDown": {}
   },
   {
@@ -152,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 525,
-    "timeWeek": 428,
-    "timeMonth": 384,
-    "timeYear": 391,
+    "time": 389,
+    "timeDay": 237,
+    "timeWeek": 421,
+    "timeMonth": 378,
+    "timeYear": 389,
     "dailyMinutesDown": {}
   }
 ]
