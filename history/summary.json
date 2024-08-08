@@ -24,18 +24,20 @@
     "url": "https://next.nature.io/",
     "icon": "https://icons.duckduckgo.com/ip3/next.nature.io.ico",
     "slug": "next-nature-io-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
+    "time": 796,
     "timeDay": 583,
     "timeWeek": 748,
     "timeMonth": 772,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-08": 0
+    }
   },
   {
     "name": "api.nature.io (v2)",
