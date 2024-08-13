@@ -6,12 +6,12 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: ecozoom
     url: https://www.ecozoom.app/
-  - name: next.nature.io (v2)
-    url: https://next.nature.io/
+  - name: direct.ecozoom.app (v2)
+    url: https://direct.ecozoom.app/
     assignees:
       - kulturpessimist
-  - name: api.nature.io (v2)
-    url: https://api.nature.io/
+  - name: direct-api.ecozoom.app (v2)
+    url: https://direct-api.ecozoom.app/
     assignees:
       - kulturpessimist
   - name: natureBalance 5.x
