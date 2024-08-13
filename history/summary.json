@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 695,
-    "timeWeek": 643,
-    "timeMonth": 635,
-    "timeYear": 788,
+    "time": 783,
+    "timeDay": 915,
+    "timeWeek": 691,
+    "timeMonth": 648,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-05-03": 26
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 795,
-    "timeDay": 565,
-    "timeWeek": 740,
-    "timeMonth": 737,
-    "timeYear": 831,
+    "timeDay": 745,
+    "timeWeek": 692,
+    "timeMonth": 735,
+    "timeYear": 832,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 524,
-    "timeWeek": 450,
+    "time": 534,
+    "timeDay": 482,
+    "timeWeek": 447,
     "timeMonth": 482,
-    "timeYear": 535,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 205,
-    "timeWeek": 211,
-    "timeMonth": 234,
+    "timeDay": 194,
+    "timeWeek": 212,
+    "timeMonth": 233,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-12-08": 20
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gemeinsam-ist-es-klimaschutz.de.ico",
     "slug": "basic",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 995,
-    "timeDay": 616,
-    "timeWeek": 894,
-    "timeMonth": 930,
-    "timeYear": 980,
+    "timeDay": 1220,
+    "timeWeek": 886,
+    "timeMonth": 949,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2024-05-23": 883,
       "2024-05-22": 1113,
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 344,
-    "timeWeek": 315,
-    "timeMonth": 304,
-    "timeYear": 275,
+    "timeDay": 322,
+    "timeWeek": 321,
+    "timeMonth": 302,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2023-12-08": 19
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3156,
-    "timeDay": 2687,
-    "timeWeek": 2587,
-    "timeMonth": 2631,
-    "timeYear": 3156,
+    "time": 3153,
+    "timeDay": 2591,
+    "timeWeek": 2586,
+    "timeMonth": 2632,
+    "timeYear": 3153,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 412,
-    "timeWeek": 373,
-    "timeMonth": 382,
-    "timeYear": 388,
+    "time": 421,
+    "timeDay": 4672,
+    "timeWeek": 999,
+    "timeMonth": 520,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   }
 ]
