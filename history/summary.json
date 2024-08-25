@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/direct-api.ecozoom.app.ico",
     "slug": "direct-api-ecozoom-app-v2",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 392,
     "timeWeek": 466,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {
-      "2024-08-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "natureBalance 5.x",
@@ -127,19 +125,19 @@
     "url": "https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net",
     "icon": "https://icons.duckduckgo.com/ip3/puppet.natureoffice.net.ico",
     "slug": "puppet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 3117,
-    "timeDay": 2922,
-    "timeWeek": 2743,
-    "timeMonth": 2650,
-    "timeYear": 3117,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 3119,
+    "timeDay": 3099,
+    "timeWeek": 2822,
+    "timeMonth": 2674,
+    "timeYear": 3119,
     "dailyMinutesDown": {
-      "2024-08-25": 5
+      "2024-08-25": 21
     }
   },
   {
