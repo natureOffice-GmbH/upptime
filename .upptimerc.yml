@@ -4,6 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: natureOffice 
+    url: https://natureoffice.com/
   - name: ecozoom
     url: https://www.ecozoom.app/
   - name: direct.ecozoom.app (v2)
