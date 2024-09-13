@@ -4,17 +4,17 @@
     "url": "https://natureoffice.com/",
     "icon": "https://icons.duckduckgo.com/ip3/natureoffice.com.ico",
     "slug": "nature-office",
-    "status": "up",
-    "uptime": "88.36%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "88.36%",
-    "uptimeMonth": "88.36%",
-    "uptimeYear": "88.36%",
-    "time": 1068,
-    "timeDay": 1040,
-    "timeWeek": 1068,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "status": "down",
+    "uptime": "88.75%",
+    "uptimeDay": "76.83%",
+    "uptimeWeek": "88.75%",
+    "uptimeMonth": "88.75%",
+    "uptimeYear": "88.75%",
+    "time": 980,
+    "timeDay": 914,
+    "timeWeek": 980,
+    "timeMonth": 980,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2024-09-13": 333
     }
@@ -33,7 +33,7 @@
     "time": 789,
     "timeDay": 817,
     "timeWeek": 963,
-    "timeMonth": 771,
+    "timeMonth": 782,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2024-05-03": 26
@@ -53,7 +53,7 @@
     "time": 876,
     "timeDay": 758,
     "timeWeek": 845,
-    "timeMonth": 876,
+    "timeMonth": 890,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 512,
     "timeDay": 467,
     "timeWeek": 560,
-    "timeMonth": 512,
+    "timeMonth": 510,
     "timeYear": 512,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 287,
     "timeDay": 223,
     "timeWeek": 256,
-    "timeMonth": 282,
+    "timeMonth": 283,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2023-12-08": 20
@@ -109,7 +109,7 @@
     "time": 976,
     "timeDay": 1240,
     "timeWeek": 1256,
-    "timeMonth": 1138,
+    "timeMonth": 1157,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2024-05-23": 883,
@@ -132,7 +132,7 @@
     "time": 272,
     "timeDay": 347,
     "timeWeek": 337,
-    "timeMonth": 322,
+    "timeMonth": 323,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2023-12-08": 19
@@ -152,7 +152,7 @@
     "time": 3212,
     "timeDay": 2596,
     "timeWeek": 2721,
-    "timeMonth": 3484,
+    "timeMonth": 3510,
     "timeYear": 3212,
     "dailyMinutesDown": {
       "2024-08-25": 21
@@ -172,7 +172,7 @@
     "time": 414,
     "timeDay": 453,
     "timeWeek": 408,
-    "timeMonth": 386,
+    "timeMonth": 389,
     "timeYear": 414,
     "dailyMinutesDown": {}
   }
