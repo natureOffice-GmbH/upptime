@@ -26,6 +26,11 @@ sites:
     url: https://www.nature.io/
     assignees:
       - kulturpessimist
+  - name: Logokit
+    url: https://lk.natureoffice.net/test
+    __dangerous__body_down_if_text_missing: '"pass":true'
+    assignees:
+      - kulturpessimist
   - name: Puppet
     url: https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net
     assignees:
@@ -41,9 +46,12 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: natureOffice Uptime Monitor
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: natureOffice Monitoring
+  introTitle: "natureOffice infrastructure monitoring"
+  introMessage: Collecting uptime and average response time of all customer facing systems.
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /
