@@ -65,18 +65,20 @@
     "url": "https://direct-api.ecozoom.app/",
     "icon": "https://icons.duckduckgo.com/ip3/direct-api.ecozoom.app.ico",
     "slug": "direct-api-ecozoom-app-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 436,
-    "timeWeek": 486,
-    "timeMonth": 452,
+    "timeDay": 432,
+    "timeWeek": 480,
+    "timeMonth": 451,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "natureBalance 5.x",
