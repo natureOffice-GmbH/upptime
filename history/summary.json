@@ -145,10 +145,10 @@
     "url": "https://lk.natureoffice.net/test",
     "icon": "https://icons.duckduckgo.com/ip3/lk.natureoffice.net.ico",
     "slug": "logokit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 4046,
@@ -157,7 +157,7 @@
     "timeMonth": 4119,
     "timeYear": 4046,
     "dailyMinutesDown": {
-      "2025-02-20": 23
+      "2025-02-20": 24
     }
   },
   {
