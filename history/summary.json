@@ -118,8 +118,7 @@
       "2024-11-15": 27,
       "2024-05-23": 883,
       "2024-05-22": 1113,
-      "2024-03-26": 16,
-      "2024-02-22": 15
+      "2024-03-26": 16
     }
   },
   {
@@ -146,18 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lk.natureoffice.net.ico",
     "slug": "logokit",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 4046,
     "timeDay": 3842,
     "timeWeek": 4040,
     "timeMonth": 4119,
     "timeYear": 4046,
     "dailyMinutesDown": {
-      "2025-02-20": 24
+      "2025-02-21": 9,
+      "2025-02-20": 32
     }
   },
   {
