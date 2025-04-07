@@ -145,10 +145,10 @@
     "url": "https://lk.natureoffice.net/test",
     "icon": "https://icons.duckduckgo.com/ip3/lk.natureoffice.net.ico",
     "slug": "logokit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 4070,
@@ -157,6 +157,7 @@
     "timeMonth": 4179,
     "timeYear": 4070,
     "dailyMinutesDown": {
+      "2025-04-07": 1,
       "2025-02-21": 102,
       "2025-02-20": 32
     }
@@ -170,12 +171,12 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.95%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.51%",
     "time": 3470,
     "timeDay": 3417,
     "timeWeek": 3065,
-    "timeMonth": 3835,
+    "timeMonth": 3610,
     "timeYear": 3444,
     "dailyMinutesDown": {
       "2025-04-04": 26,
