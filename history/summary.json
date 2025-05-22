@@ -120,8 +120,7 @@
     "dailyMinutesDown": {
       "2025-04-17": 37,
       "2024-11-15": 27,
-      "2024-05-23": 883,
-      "2024-05-22": 1113
+      "2024-05-23": 883
     }
   },
   {
@@ -157,7 +156,7 @@
     "uptimeYear": "99.84%",
     "time": 4195,
     "timeDay": 4126,
-    "timeWeek": 6650,
+    "timeWeek": 4219,
     "timeMonth": 4730,
     "timeYear": 4195,
     "dailyMinutesDown": {
@@ -173,18 +172,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/puppet.natureoffice.net.ico",
     "slug": "puppet",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.56%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.48%",
     "time": 3517,
     "timeDay": 2203,
     "timeWeek": 4247,
     "timeMonth": 3693,
     "timeYear": 3527,
     "dailyMinutesDown": {
-      "2025-05-21": 0,
+      "2025-05-22": 10,
+      "2025-05-21": 42,
       "2025-05-12": 67,
       "2025-04-14": 53,
       "2025-04-04": 26,
