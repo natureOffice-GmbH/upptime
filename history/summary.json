@@ -30,19 +30,19 @@
     "url": "https://www.ecozoom.app/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecozoom.app.ico",
     "slug": "ecozoom",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1066,
-    "timeDay": 1118,
-    "timeWeek": 1118,
-    "timeMonth": 1433,
-    "timeYear": 1161,
+    "time": 1067,
+    "timeDay": 1025,
+    "timeWeek": 1095,
+    "timeMonth": 1417,
+    "timeYear": 1160,
     "dailyMinutesDown": {
-      "2025-07-10": 1
+      "2025-07-10": 13
     }
   },
   {
