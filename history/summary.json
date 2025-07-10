@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/natureoffice.com.ico",
     "slug": "nature-office",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.90%",
     "time": 1771,
     "timeDay": 726,
     "timeWeek": 1262,
-    "timeMonth": 1603,
+    "timeMonth": 1575,
     "timeYear": 1771,
     "dailyMinutesDown": {
       "2025-06-10": 36,
@@ -30,10 +30,10 @@
     "url": "https://www.ecozoom.app/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecozoom.app.ico",
     "slug": "ecozoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1066,
@@ -41,7 +41,9 @@
     "timeWeek": 1118,
     "timeMonth": 1433,
     "timeYear": 1161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 1
+    }
   },
   {
     "name": "direct.ecozoom.app (v2)",
@@ -181,7 +183,7 @@
     "uptimeYear": "99.42%",
     "time": 3694,
     "timeDay": 3645,
-    "timeWeek": 2171,
+    "timeWeek": 2216,
     "timeMonth": 4370,
     "timeYear": 3773,
     "dailyMinutesDown": {
