@@ -221,9 +221,9 @@
     "url": "https://api-v2.klimaneutral.me",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.klimaneutral.me.ico",
     "slug": "klimaneutral-me-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -232,6 +232,8 @@
     "timeWeek": 373,
     "timeMonth": 400,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   }
 ]
