@@ -27,18 +27,20 @@
     "url": "https://www.ecozoom.app/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecozoom.app.ico",
     "slug": "ecozoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1148,
-    "timeDay": 1415,
-    "timeWeek": 1251,
-    "timeMonth": 1240,
-    "timeYear": 1282,
-    "dailyMinutesDown": {}
+    "timeDay": 904,
+    "timeWeek": 1143,
+    "timeMonth": 1213,
+    "timeYear": 1280,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "direct.ecozoom.app (v2)",
@@ -132,9 +134,9 @@
     "slug": "nature-io-v1",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
     "timeDay": 632,
@@ -142,7 +144,6 @@
     "timeMonth": 397,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-10-03": 10,
       "2025-08-25": 39,
       "2025-04-29": 23
     }
