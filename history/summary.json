@@ -235,19 +235,19 @@
     "url": "https://api-v2.klimaneutral.me",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.klimaneutral.me.ico",
     "slug": "klimaneutral-me-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 504,
-    "timeWeek": 444,
-    "timeMonth": 427,
+    "timeDay": 510,
+    "timeWeek": 453,
+    "timeMonth": 429,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-10-07": 0
+      "2025-10-07": 6
     }
   }
 ]
