@@ -70,11 +70,11 @@
     "url": "https://direct-api.ecozoom.app/",
     "icon": "https://icons.duckduckgo.com/ip3/direct-api.ecozoom.app.ico",
     "slug": "direct-api-ecozoom-app-v2",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 677,
     "timeDay": 554,
@@ -82,7 +82,7 @@
     "timeMonth": 632,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-11-18": 131,
+      "2025-11-18": 118,
       "2025-05-21": 19,
       "2025-01-13": 25
     }
