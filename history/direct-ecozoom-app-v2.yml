@@ -1,7 +1,7 @@
 url: https://direct.ecozoom.app/
-status: up
-code: 200
-responseTime: 1253
-lastUpdated: 2025-11-18T11:42:49.719Z
+status: down
+code: 500
+responseTime: 164
+lastUpdated: 2025-11-18T11:57:14.654Z
 startTime: 2024-08-13T08:00:04.919Z
 generator: Upptime <https://github.com/upptime/upptime>
