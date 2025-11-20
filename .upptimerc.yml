@@ -6,39 +6,45 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: natureOffice 
     url: https://natureoffice.com/
+    assignees:
+      - mb-nO
   - name: ecozoom
     url: https://www.ecozoom.app/
+    assignees:
+      - mb-nO
   - name: direct.ecozoom.app (v2)
     url: https://direct.ecozoom.app/
     assignees:
-      - kulturpessimist
+      - mb-nO
   - name: direct-api.ecozoom.app (v2)
     url: https://direct-api.ecozoom.app/
     assignees:
-      - kulturpessimist
+      - mb-nO
   - name: natureBalance 5.x
     url: https://www.naturebalance.net/
     assignees:
-      - kulturpessimist
+      - mb-nO
   - name: Basic
     url: https://www.gemeinsam-ist-es-klimaschutz.de
+    assignees:
+      - mb-nO
   - name: nature.io (v1)
     url: https://www.nature.io/
     assignees:
-      - kulturpessimist
+      - mb-nO
   - name: Logokit
     url: https://lk.natureoffice.net/test
     __dangerous__body_down_if_text_missing: '"pass":true'
     assignees:
-      - kulturpessimist
+      - mb-nO
   - name: Puppet
     url: https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net
     assignees:
-      - kulturpessimist
+      - mb-nO
   - name: klimaneutral.me (v2)
     url: https://api-v2.klimaneutral.me
     assignees:
-      - kulturpessimist
+      - mb-nO
       
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
