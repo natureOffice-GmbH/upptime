@@ -75,9 +75,9 @@
     "slug": "direct-api-ecozoom-app-v2",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 746,
     "timeDay": 1014,
@@ -85,7 +85,6 @@
     "timeMonth": 699,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2026-03-09": 5,
       "2026-02-04": 16,
       "2025-11-18": 118,
       "2025-05-21": 19
@@ -169,9 +168,9 @@
     "slug": "logokit",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 4268,
     "timeDay": 3616,
@@ -179,7 +178,6 @@
     "timeMonth": 3709,
     "timeYear": 4346,
     "dailyMinutesDown": {
-      "2026-03-09": 3,
       "2026-02-05": 30,
       "2026-02-04": 19,
       "2026-02-02": 18,
@@ -237,8 +235,7 @@
       "2025-04-04": 26,
       "2025-03-19": 152,
       "2025-03-12": 35,
-      "2025-03-11": 73,
-      "2025-03-10": 23
+      "2025-03-11": 73
     }
   },
   {
