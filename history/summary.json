@@ -116,16 +116,16 @@
     "url": "https://www.gemeinsam-ist-es-klimaschutz.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.gemeinsam-ist-es-klimaschutz.de.ico",
     "slug": "basic",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "95.15%",
-    "time": 989,
-    "timeDay": 849,
-    "timeWeek": 703,
-    "timeMonth": 725,
+    "time": 988,
+    "timeDay": 856,
+    "timeWeek": 720,
+    "timeMonth": 730,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2025-11-01": 513,
@@ -151,7 +151,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 520,
-      "2026-08-16": 20
+      "2026-08-16": 21
     }
   },
   {
