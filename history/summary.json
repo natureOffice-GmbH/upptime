@@ -118,7 +118,7 @@
     "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.44%",
+    "uptimeMonth": "52.52%",
     "uptimeYear": "89.15%",
     "time": 970,
     "timeDay": 316,
@@ -225,17 +225,17 @@
     "url": "https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net",
     "icon": "https://icons.duckduckgo.com/ip3/puppet.natureoffice.net.ico",
     "slug": "puppet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 4269,
-    "timeDay": 4115,
-    "timeWeek": 2678,
-    "timeMonth": 4488,
-    "timeYear": 4395,
+    "time": 4316,
+    "timeDay": 17168,
+    "timeWeek": 6121,
+    "timeMonth": 5245,
+    "timeYear": 4458,
     "dailyMinutesDown": {
       "2025-10-01": 54,
       "2025-10-13": 16,
@@ -248,7 +248,8 @@
       "2026-04-20": 57,
       "2026-04-30": 45,
       "2026-06-30": 41,
-      "2026-07-21": 39
+      "2026-07-21": 39,
+      "2026-09-24": 0
     }
   },
   {
