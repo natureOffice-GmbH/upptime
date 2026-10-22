@@ -224,17 +224,17 @@
     "url": "https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net",
     "icon": "https://icons.duckduckgo.com/ip3/puppet.natureoffice.net.ico",
     "slug": "puppet",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.91%",
-    "time": 4179,
-    "timeDay": 1277,
-    "timeWeek": 2500,
-    "timeMonth": 4082,
-    "timeYear": 4296,
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.90%",
+    "time": 4183,
+    "timeDay": 2886,
+    "timeWeek": 2828,
+    "timeMonth": 4138,
+    "timeYear": 4300,
     "dailyMinutesDown": {
       "2025-11-18": 111,
       "2026-02-04": 17,
@@ -248,7 +248,7 @@
       "2026-07-21": 39,
       "2026-09-24": 25,
       "2026-10-19": 61,
-      "2026-10-22": 1
+      "2026-10-22": 54
     }
   },
   {
