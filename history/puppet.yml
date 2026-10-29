@@ -1,7 +1,7 @@
 url: https://puppet.natureoffice.net/pdf?url=https://puppet.natureoffice.net
-status: up
-code: 200
-responseTime: 1770
-lastUpdated: 2026-10-28T23:04:19.768Z
+status: down
+code: 500
+responseTime: 346
+lastUpdated: 2026-10-29T08:47:38.228Z
 startTime: 2024-03-13T09:13:11.485Z
 generator: Upptime <https://github.com/upptime/upptime>
